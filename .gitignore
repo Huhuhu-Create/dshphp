@@ -1,0 +1,15 @@
+# ===== dshphp 机密 / 运行时（绝不可提交）=====
+config.php
+app/storage.php
+php-local.ini
+data/
+SERVER_PID.txt
+nul
+
+# ===== 本地自带 PHP 运行时（92MB，通过 friend-ready.zip 分发，不进源码库）=====
+php/
+
+# ===== 操作系统 / 编辑器垃圾 =====
+Thumbs.db
+.DS_Store
+*.log
